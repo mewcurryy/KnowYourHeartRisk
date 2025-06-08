@@ -21,6 +21,7 @@ Jika device Anda **belum memiliki Python**, ikuti langkah berikut:
    python --version
    pip --version
    ```
+Jika keduanya menampilkan versi, maka Python sudah siap digunakan ✅
 
 ### 💻 2. Menjalankan Aplikasi
 1. **Download file ZIP** dari repository ini  
