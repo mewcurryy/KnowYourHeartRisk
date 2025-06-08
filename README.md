@@ -6,10 +6,16 @@ Aplikasi prediksi risiko serangan jantung berbasis Machine Learning dengan Strea
 
 ## 🚀 Cara Menjalankan Aplikasi (Offline)
 
-1. **Download file ZIP** dari repository ini. 
+1. **Download file ZIP** dari repository ini  
 2. **Extract ZIP** dan buka folder:  
    `KnowYourHeartRisk_Kelompok5_Final_LC01`  
-3. **Jalankan file** `run_app.bat`  
+3. **Install library yang dibutuhkan**:
+   - Buka Command Prompt di dalam folder
+   - Jalankan perintah berikut:
+     ```bash
+     pip install -r requirements.txt
+     ```
+4. **Jalankan file** `run_app.bat`  
    Aplikasi akan otomatis terbuka di browser local pada device Anda.
 
 > ⚠️ Jika `run_app.bat` tidak bisa dijalankan, pastikan telah menginstall semua library yang dibutuhkan (lihat pada `requirements.txt`).
