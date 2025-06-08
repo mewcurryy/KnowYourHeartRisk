@@ -7,7 +7,7 @@ Aplikasi prediksi risiko serangan jantung berbasis Machine Learning dengan Strea
 ## 🚀 Cara Menjalankan Aplikasi (Offline)
 
 ### ⚙️ 1. Melakukan Install Python
-Jika komputer Anda **belum memiliki Python**, ikuti langkah berikut:
+Jika device Anda **belum memiliki Python**, ikuti langkah berikut:
 
 1. Download Python dari situs Python secara resmi:  
    🔗 [https://www.python.org/downloads/](https://www.python.org/downloads/)
