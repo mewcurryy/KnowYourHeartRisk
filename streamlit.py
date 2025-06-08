@@ -60,7 +60,7 @@ def preprocess_and_predict(age, gender, cholesterol, heart_rate, exercise_hours,
         st.error(f"Terjadi kesalahan saat melakukan prediksi: {e}")
         return None, None
 
-st.markdown("<h3 style='text-align: center; color: #FF6347;'>🫀Prediksi Risiko Serangan Jantung dengan KnowYourHeartRisk!🫀</h3>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #FF6347;'>🫀Prediksi Risiko Serangan Jantung dengan KnowYourHeartRisk!🫀</h1>", unsafe_allow_html=True)
 st.markdown("---")
 st.markdown("""
 **KnowYourHeartRisk** - Aplikasi ini menggunakan AI untuk memprediksi risiko serangan jantung berdasarkan data kesehatan Anda.
